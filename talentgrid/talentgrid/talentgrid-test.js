@@ -18,7 +18,7 @@ $(document).ready( function () {
             center: 'Growth',
             top: 'High'
         },
-        imageSrc: './talentgrid/smiley.png', // Location of image for token graphic.
+        imageSrc: './smiley.png', // Location of image for token graphic.
         imageTitle: 'hey, drag me', // Token title text.
         showExternalToken: true, // Whether to display the external token.
         allowTokenDragging: true, // Whether the token is draggable or static.
