@@ -464,7 +464,7 @@ $.fn.talentgriddle = function(options) {
             center: 'Growth',
             top: 'High'
         });
-        setOptionDefault(options, 'imageSrc', 'http://localhost/talentgrid/smiley.png');
+        setOptionDefault(options, 'imageSrc', './smiley.png');
         setOptionDefault(options, 'imageTitle', 'hey, drag me');
         setOptionDefault(options, 'showExternalToken', true);
         setOptionDefault(options, 'allowTokenDragging', true);
